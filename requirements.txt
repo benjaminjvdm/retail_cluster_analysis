@@ -1,5 +1,5 @@
 streamlit
 pandas
 numpy
-sklearn.cluster
+sklearn.cluster import KMeans
 matplotlib.pyplot
